@@ -7,7 +7,7 @@
 # Steam - The Ultimate Gaming Destination
 
 
-- [introduction ](#introduction ) 
+- [Introduction ](#Introduction ) 
 -  [Key Features](#key-features)
  - [Installation Guide](#installation-guide) 
  - [User Guide](#user-guide) - [Creating a Game Library](#creating-a-game-library) - [Collaboration](#collaboration) -[Reporting](#reporting) 
@@ -15,7 +15,7 @@
  - [Integrations](#integrations) 
  
  ----
- ## introduction 
+ ## Introduction 
 [Steam](https://store.steampowered.com) is the ultimate destination for playing, discussing, and creating games. It is the largest digital distribution platform for PC gaming, offering a vast library of titles across all genres. With an active community, developers, and gamers alike, **Steam** has revolutionized how games are purchased, played, and shared. Whether you’re looking to buy the latest releases, access mods, or join vibrant discussions, Steam has everything you need in one place.
 
 ![](https://upload.wikimedia.org/wikipedia/en/9/9c/Steam_%28service%29.png
